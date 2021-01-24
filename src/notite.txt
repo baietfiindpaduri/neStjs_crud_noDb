@@ -1,0 +1,7 @@
+
+run the app:
+npm run start:dev 
+sau
+yarn start:dev 
+
+no db for now, using an array.
